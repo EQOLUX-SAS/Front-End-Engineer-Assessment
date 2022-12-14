@@ -1,0 +1,20 @@
+{
+  "name": "front-end-engineer-assessment",
+  "version": "1.0.0",
+  "description": "This is an e-commerce site for you to buy products. The homepage should display a list of products for people to browse, where on the right side of the screen should display a cart that contains selected product with total price",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1",
+    "start": "cd server && node index.js & cd frontend && npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EQOLUX-SAS/Front-End-Engineer-Assessment.git"
+  },
+  "author": "Eqolux, SAS.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EQOLUX-SAS/Front-End-Engineer-Assessment/issues"
+  },
+  "homepage": "https://github.com/EQOLUX-SAS/Front-End-Engineer-Assessment#readme"
+}
